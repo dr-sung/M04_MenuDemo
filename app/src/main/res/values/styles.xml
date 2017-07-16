@@ -1,0 +1,10 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light">
+    <!-- In this example, due to the dark color of menu icons,
+                        Theme.Material style will hide some icons -->
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
